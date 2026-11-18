@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("AdministracionEmpresa"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6759701a79da58cef71e01922a2f2e269237c69b"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("AdministracionEmpresa"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("AdministracionEmpresa"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
